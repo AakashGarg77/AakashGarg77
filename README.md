@@ -7,6 +7,7 @@
 - You can reach me through various social sites down below:
 
 ## Linkedin - https://www.linkedin.com/in/gargaakash778/
+## HackerRank - https://www.hackerrank.com/gargaakash778?hr_r=1
 
 <!---
 AakashGarg77/AakashGarg77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
