@@ -7,6 +7,7 @@
 - You can reach me through various social sites down below:
 
 ## Linkedin - https://www.linkedin.com/in/gargaakash778/
+## Kaggle - https://www.kaggle.com/aakashgarg778
 ## HackerRank - https://www.hackerrank.com/gargaakash778?hr_r=1
 
 <!---
